@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Mahan Mohammadvali
-- 👀 I’m interested in Computer Science, and Engineering
+<h1 align="center">Hi 👋, I'm Mahan</h1>
+<h3 align="center">A passionate developer from Iran</h3>
+
 
 ### What do I do? 💻
 - I develop [Discord](https://discord.com/) bots using [JDA](https://github.com/DV8FromTheWorld/JDA).
-- I love compooters
+- I love compooters and math
 - I am an intermediate at 3D Modelling using [Blender](https://blender.org/).
 - I enjoy biking every morning and afternoon.
 - I have a very basic understand on using [Shotcut](https://shotcut.org/) for video editing.
