@@ -20,6 +20,10 @@
 ![](https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/voidlinux-478061?style=for-the-badge&logo=voidlinux&logoColor=white)
 
+[![Mahans's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahanvali&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mahans's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahanvali&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 
 
