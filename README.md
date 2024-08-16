@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahan</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<h1 align="center">Hi, I'm Mahan Mohammadvali 👋</h1>
+<h3 align="center">A passionate developer from Iran 🇮🇷</h3>
 
 
 ### What do I do? 💻
@@ -9,7 +9,7 @@
 - I enjoy biking every morning and afternoon.
 - I have a very basic understand on using [Shotcut](https://shotcut.org/) for video editing.
 
-### Current Tech Stack
+### Current Tech Stack 📚
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
