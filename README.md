@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahan Mohammadvali 👋</h1>
-<h3 align="center">A passionate developer from Iran 🇮🇷</h3>
+<h3 align="center">A passionate self-taught developer from Iran 🇮🇷</h3>
 
 
 ### What do I do? 💻
