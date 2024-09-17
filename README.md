@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Mahan Mohammadvali 👋</h1>
-<h3 align="center">A passionate self-taught developer</h3>
+<h3 align="center">A passionate self-taught developer and programmer</h3>
 
 
 ### What do I do? 💻
 - I develop [Discord](https://discord.com/) bots using [JDA](https://github.com/DV8FromTheWorld/JDA).
-- I love compooters and math
+- I love computers and math
 - I am an intermediate at 3D Modelling using [Blender](https://blender.org/).
 - I enjoy biking every morning and afternoon.
 - I have a very basic understand on using [Shotcut](https://shotcut.org/) for video editing.
